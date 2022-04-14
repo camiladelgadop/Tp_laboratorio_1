@@ -1,0 +1,7 @@
+10:17:20 **** Incremental Build of configuration Debug for project TpUno ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\TpUno.o" "..\\src\\TpUno.c" 
+gcc -o TpUno.exe "src\\TpUno.o" "src\\funciones.o" "src\\menu.o" 
+
+10:17:20 Build Finished. 0 errors, 0 warnings. (took 342ms)
+
